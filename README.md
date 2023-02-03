@@ -25,7 +25,7 @@
 
 ## 💻 Projeto
 
-Pprojeto em ReactJS com TypeScript, tela de login utilizando localstorage.
+Projeto em ReactJS com TypeScript, tela de login utilizando localstorage. Foi feito em 5 horas, fiz mais uma tela de cadastro e um botão para sair da sessão. Cidade Fortaleza-CE, telefone para contato: (85) 99635-4568.  
 <br />
 
 ## 🚀 Tecnologias
