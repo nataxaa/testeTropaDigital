@@ -35,6 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [Styled Components](https://styled-components.com/)
 - [Context](https://reactjs.org/docs/context.html)
+- [React](https://pt-br.reactjs.org/)
 
 <br />
 
